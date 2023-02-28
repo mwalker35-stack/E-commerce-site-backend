@@ -53,16 +53,4 @@
   ### TAGS POST PUT DELETE
   [![Watch the video](/assets/TAGS%20POST%20PUT%20DELETE.gif)<br/>
 
-  ### TAGS POST PUT DELETE
-https://watch.screencastify.com/v/Ao2YCq8slXN6hM1ajkzL
 
-  ### CATEGORY POST PUT DELETE
-https://watch.screencastify.com/v/ViIIMIcIygCWkBsIDOi2
-
-
-  ### PRODUCT POST PUT DELETE
-https://watch.screencastify.com/v/ViIIMIcIygCWkBsIDOi2
-
-  ### FULL VIDEO
-  https://watch.screencastify.com/v/SkEg2tRz7eAqXtK3Jt5R
-  
