@@ -36,21 +36,24 @@
   If you have questions please Email: MWALKE35@YAHOO.COM<br />
   See: GitHub:  (https://github.com/mwalker35-stack)<br/>
 
+  ### SEED DATA BASE, START APP
+  ![Watch the video](/assets/ecomm%20start%20%20seed.gif)<br/>
+
   ### GET ALL PRODUCTS, CATEGORIES, TAGS
-  [![Watch the video](/assets/GET%20ALL.gif)<br/>
+  ![Watch the video](/assets/GET%20ALL.gif)<br/>
 
   ### GET BY ONE ID
-  [![Watch the video](/assets/BY%20ONE.gif)<br/>
+  ![Watch the video](/assets/BY%20ONE.gif)<br/>
 
   ### PRODUCT POST PUT DELETE
-  [![Watch the video](/assets/PRODUCT%20POST%20PUT%20DELETE.gif)<br/>
+  ![Watch the video](/assets/PRODUCT%20POST%20PUT%20DELETE.gif)<br/>
 
 
   ### CATEGORIES POST PUT DELETE
-  [![Watch the video](/assets/CATEGORY%20POST%20PUT%20DELETE.gif)<br/>
+  ![Watch the video](/assets/CATEGORY%20POST%20PUT%20DELETE.gif)<br/>
 
 
   ### TAGS POST PUT DELETE
-  [![Watch the video](/assets/TAGS%20POST%20PUT%20DELETE.gif)<br/>
+  ![Watch the video](/assets/TAGS%20POST%20PUT%20DELETE.gif)<br/>
 
 
