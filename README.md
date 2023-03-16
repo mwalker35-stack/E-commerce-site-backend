@@ -58,4 +58,9 @@
   Link
   https://watch.screencastify.com/v/BLOhxyXMUNfHsCG1Uohr
 
+  ### FULL VIDEO
+  ![Watch the video](/assets/full%20functionality.gif)<br/>
+
+
+
 
